@@ -1,0 +1,30 @@
+{
+    "VERMELHO": {
+        "VER": "#ff0000",
+        "VINHO": "#420909",
+        "CLARO": "#b63333"
+    },
+    "AZUL": {
+        "ESCURO": "#040dd2",
+        "AROXADO": "#12003b",
+        "CLARO": "#095266",
+        "CLAROAROXADO": "#246bd6",
+        "CIANO": "#00ffe5",
+        "CHOQUE": "#1c00ff"
+    },
+    "ROXO": {
+        "ESCURO": "#2c024b",
+        "CLARO": "#361d47",
+        "CHOQUE": "#9400ff",
+        "ESCURO2": "#0a011d"
+    },
+    "PRETO": "#030303",
+    "VERDE": {
+        "VERDE_CLARO": "#81ff00",
+        "VERDE_FLORECENTE": "#e1ff00"
+    },
+    "ROSA": {
+        "ROSA": "#ef00ff",
+        "ROSACHOQUE": "#ff006f"
+    }
+}

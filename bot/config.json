@@ -1,0 +1,19 @@
+{
+    "token": " TOKEN BOT ",
+    "debug": true,
+    "prefix": "!",
+
+    "avisosChannelId": "800139842239201320",
+    "boasVindasChannelId": "800130296674254858",
+
+    "permissions": {
+        "!aviso": [{
+            "type": "role",
+            "value": "800148840677769226"
+        }],
+        "!clear": [{
+            "type": "permission",
+            "value": "ADMINISTRATOR"
+        }]
+    }
+}
